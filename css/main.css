@@ -1,1 +1,36 @@
-/* Agrega aquí tus estilos*/
+*{
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+}
+
+a:link {
+ color:#e29; 
+}
+a:visted {
+ color: #936; 
+}
+
+#css-zen-garden{
+	background-image: url(../img/388021.gif);
+	background-size: 100%  100%;
+}
+.page-wrapper{
+	padding: 10px 60px;
+}
+header h1{
+	font-family: 'Barrio', cursive;
+	font-size: 60px;
+	margin-top:10px;
+	text-align: center;
+	color:#412;
+}	
+h2,h3{
+	font-family: 'Lobster Two', cursive;
+}
+ul li  {
+	list-style-type: square;
+
+} 
+.design-selection nav ul{
+	color:green;
+}
